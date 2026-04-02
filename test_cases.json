@@ -1,0 +1,104 @@
+[
+    {
+        "loan_application": {
+            "applicant_name": "Priya Sharma",
+            "age": 29,
+            "annual_income": 1800000,
+            "monthly_expenses": 50000,
+            "existing_debts": 20000,
+            "savings": 600000,
+            "loan_amount_requested": 3000000,
+            "loan_purpose": "home",
+            "loan_term_months": 240,
+            "employment_type": "salaried",
+            "industry": "education",
+            "years_employed": 5.0,
+            "additional_info": "Looking to buy a first home. Steady teaching job."
+        }
+    },
+    {
+        "loan_application": {
+            "applicant_name": "Tony Stark",
+            "age": 42,
+            "annual_income": 4800000,
+            "monthly_expenses": 80000,
+            "existing_debts": 20000,
+            "savings": 1500000,
+            "loan_amount_requested": 8000000,
+            "loan_purpose": "business",
+            "loan_term_months": 60,
+            "employment_type": "salaried",
+            "industry": "retail",
+            "years_employed": 14.3,
+            "additional_info": "Expanding R&D department for advanced engineering projects."
+        }
+    },
+    {
+        "loan_application": {
+            "applicant_name": "Bruce Banner",
+            "age": 28,
+            "annual_income": 800000,
+            "monthly_expenses": 20000,
+            "existing_debts": 0,
+            "savings": 12000000,
+            "loan_amount_requested": 2000000,
+            "loan_purpose": "business",
+            "loan_term_months": 36,
+            "employment_type": "self-employed",
+            "industry": "import-export",
+            "years_employed": 2.0,
+            "additional_info": "Bootstrapping a cross-border electronics trading company. Have heavy VC backing in savings."
+        }
+    },
+    {
+        "loan_application": {
+            "applicant_name": "Magic Johnson",
+            "age": 35,
+            "annual_income": 7500000,
+            "monthly_expenses": 120000,
+            "existing_debts": 50000,
+            "savings": 3500000,
+            "loan_amount_requested": 15000000,
+            "loan_purpose": "home",
+            "loan_term_months": 180,
+            "employment_type": "salaried",
+            "industry": "healthcare",
+            "years_employed": 10.4,
+            "additional_info": "Senior surgeon looking to purchase a primary residence near the hospital. High liquidity and stable medical career."
+        }
+    },
+    {
+        "loan_application": {
+            "applicant_name": "Hakeem Olajuwon",
+            "age": 38,
+            "annual_income": 9000000,
+            "monthly_expenses": 150000,
+            "existing_debts": 350000,
+            "savings": 800000,
+            "loan_amount_requested": 15000000,
+            "loan_purpose": "vehicle",
+            "loan_term_months": 96,
+            "employment_type": "salaried",
+            "industry": "finance",
+            "years_employed": 4.3,
+            "additional_info": "Purchasing a luxury imported sports car. High existing monthly obligations due to multiple investment property mortgages."
+        }
+    },
+    {
+        "loan_application": {
+            "applicant_name": "Stephen Curry",
+            "age": 62,
+            "annual_income": 1500000,
+            "monthly_expenses": 40000,
+            "existing_debts": 0,
+            "savings": 2500000,
+            "loan_amount_requested": 4000000,
+            "loan_purpose": "home",
+            "loan_term_months": 240,
+            "employment_type": "salaried",
+            "industry": "manufacturing",
+            "years_employed": 15,
+            "additional_info": "Retiring soon, buying a peaceful countryside home."
+        }
+    }
+]
