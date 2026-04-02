@@ -15,7 +15,7 @@ An advanced, multi-agent AI system for dynamic loan underwriting. Built with Lan
 
 - Orchestration: LangGraph, LangChain, Google Gemini API
 - Backend API: FastAPI, Pydantic, Uvicorn, SQLite
-- Agent Tools: PythonREPL, DuckDuckGoSearchRun, Custom deterministic mocking tools
+- Agent Tools: PythonREPL, DuckDuckGoSearchRun, Custom deterministic mock tools
 
 ## Getting Started
 
