@@ -26,7 +26,7 @@ To evaluate the Supervisor's decision-making, I executed 6 highly complex stress
 *   **State Persistence across Restarts:** The system's memory persistence was validated using a SQLite checkpointer (`checkpoints.sqlite`). I verified robustness by executing a multi-agent loop, shutting down the Uvicorn/FastAPI server, restarting the application, and successfully retrieving the historical LangGraph state and final decisions via the `GET /v1/thread/{thread_id}` endpoint.
 *   **Telemetry & Traceability:** The API successfully captures and returns the full `execution_trace` (documenting exact tool inputs and timestamped iterations) alongside an `estimated_cost_usd` block, providing full transparency into token consumption for the entire supervisor loop.
 
-## 5. Critical Thinking: LLM Failures & Prompt Optimization
+## 5. LLM Failures & Prompt Optimization
 
 Building a Multi-Agent system exposed several inherent limitations and failure modes of Large Language Models when operating autonomously. I identified and addressed the following LLM failures during development:
 
