@@ -1,4 +1,4 @@
-# EVAL.md: Multi-Agent Supervisor System Analysis
+#  Multi-Agent Supervisor System Analysis
 
 ## 1. Problem Definition & Agent Personas
 The system tackles the complex domain of **Automated Loan Underwriting**. Traditional lending requires consensus across siloed departments (Legal, Quantitative, and Risk). A single monolithic LLM is prone to hallucination when balancing these distinct domains. Therefore, I implemented a Multi-Agent Supervisor architecture to delegate tasks to highly specialized, role-playing worker nodes:
